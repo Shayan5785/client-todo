@@ -1,0 +1,14 @@
+.topButtons{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.MyClass{
+    text-decoration: line-through;
+}
+
+.toggle{
+    color: white;
+    background-color: black;
+}
